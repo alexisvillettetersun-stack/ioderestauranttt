@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>La carte — IODÉ</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="header">
+<div class="wrap">
+<a class="brand" href="index.html">IODÉ</a>
+<nav class="nav">
+<a href="index.html">Accueil</a>
+<a href="menu.html" class="active">La carte</a>
+<a href="reservations.html" class="btn">Réserver</a>
+</nav>
+</div>
+</header>
+
+<main class="wrap main">
+<section class="card">
+<h1>La carte</h1>
+<div class="menu-block">
+<h2>Entrées</h2>
+<ul class="menu-list">
+<li><span>Velouté de potimarron, huile de noisette</span><strong>8€</strong></li>
+<li><span>Tartare de daurade, agrumes</span><strong>12€</strong></li>
+</ul>
+</div>
+
+<div class="menu-block">
+<h2>Plats</h2>
+<ul class="menu-list">
+<li><span>Poisson du marché, beurre citronné</span><strong>19€</strong></li>
+<li><span>Magret de canard, jus corsé</span><strong>22€</strong></li>
+</ul>
+</div>
+
+<div class="menu-block">
+<h2>Desserts</h2>
+<ul class="menu-list">
+<li><span>Tarte citron meringuée</span><strong>8€</strong></li>
+<li><span>Moelleux chocolat, glace vanille</span><strong>8€</strong></li>
+</ul>
+</div>
+
+<a class="btn" href="reservations.html">Réserver</a>
+</section>
+</main>
+
+<footer class="footer">
+<div class="wrap footer-grid">
+<div><strong>IODÉ</strong> — 47000 Agen</div>
+<div><a href="index.html">Accueil</a></div>
+<div>© <span id="year"></span> IODÉ</div>
+</div>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
