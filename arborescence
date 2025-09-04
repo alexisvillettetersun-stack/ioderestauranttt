@@ -1,0 +1,13 @@
+iode-restaurant/
+├─ index.html
+├─ menu.html
+├─ reservations.html
+├─ thank-you.html
+├─ assets/
+│  ├─ style.css
+│  ├─ app.js
+│  ├─ cover.jpg         ← image hero
+│  ├─ salle-1.jpg       ← image salle
+│  ├─ chef.jpg          ← image chef
+│  ├─ plat-1.jpg        ← image plat
+│  └─ favicon.ico
